@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Ajith\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="D:\AndroidApp\SampleCodes\PushNotification\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_394eefdd2d5b7f402b9b11ee39b91278b1f903da.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApp\SampleCodes\PushNotification\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="D:\AndroidApp\SampleCodes\PushNotification\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.1_b0412e5d3e3ca6bbcbf97700fa510bd9ef3bf4a4.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApp\SampleCodes\PushNotification\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="D:\AndroidApp\SampleCodes\PushNotification\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.1_ceea7a064e3262fef2704b68391a63f10a8d462d.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApp\SampleCodes\PushNotification\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="D:\AndroidApp\SampleCodes\PushNotification\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.1_0bf145d7fd42479a887d23ae8a1f27879f519fe6.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApp\SampleCodes\PushNotification\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="D:\AndroidApp\SampleCodes\PushNotification\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.1_0592f06ff8cafc5d230f32850cb94127dfa2b52e.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApp\SampleCodes\PushNotification\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="D:\AndroidApp\SampleCodes\PushNotification\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_32af71d4d5af4708a04d23fcd2e0fc2443a78edf.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApp\SampleCodes\PushNotification\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="D:\AndroidApp\SampleCodes\PushNotification\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.1_0589e999fc807286399b46a10d766ee108e374c6.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApp\SampleCodes\PushNotification\app\build\intermediates\exploded-aar\com.pushbots\pushbots-lib\2.0.13\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="635a77d3f219ad345f4b82dba86e4aabe4f35b94">
+        <dex dex="D:\AndroidApp\SampleCodes\PushNotification\app\build\intermediates\pre-dexed\debug\com.pushbots-pushbots-lib-2.0.13_0f6e97fceac747a7a294aeddc0cec9606e2ac2f6.jar" />
+    </item>
+    <item
+        jar="D:\AndroidApp\SampleCodes\PushNotification\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="D:\AndroidApp\SampleCodes\PushNotification\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_b915c781c339edbbd2a297abd1c61937ec9b8125.jar" />
+    </item>
+
+</items>
